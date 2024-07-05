@@ -11,8 +11,8 @@ React MusicPlayer is a simple web application built with React.js for playing au
 
 ## Screenshots
 
-![Screenshot 1](public/Assets/Images/mini.png)
-![Screenshot 2](public/Assets/Images/ScreenshotPlayer.png)
+![Screenshot 1](public/Assets/Images/ScreenshotPlayer.png)
+![Screenshot 2](public/Assets/Images/mini.png)
 
 ## Technologies Used
 
