@@ -1,6 +1,6 @@
-# React MusicPlayer
+# React Music Player
 
-React MusicPlayer is a simple web application built with React.js for playing audio files.
+Elevate your audio experience with React Music Player. Play, pause, and skip tracks effortlessly in this intuitive web app. React MusicPlayer is a simple web application built with React.js for playing audio files.
 
 ## Features
 
