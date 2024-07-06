@@ -1,6 +1,6 @@
-# React MusicPlayer
+# React Music Player
 
-React MusicPlayer is a simple web application built with React.js for playing audio files.
+Elevate your audio experience with React Music Player. Play, pause, and skip tracks effortlessly in this intuitive web app. React MusicPlayer is a simple web application built with React.js for playing audio files.
 
 ## Features
 
@@ -26,23 +26,23 @@ To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
-- Node.js (version >= X.X.X)
-- npm (version >= X.X.X)
+- Node.js
+- npm
 
 ### Installation
 
 1. Clone the repository:
 
-git clone https://github.com/SaiKribaMuralidharan/MusicPlayer.git
+   git clone https://github.com/SaiKribaMuralidharan/MusicPlayer.git
 
 2. Navigate into the project directory:
 
-cd MusicPlayer
+   cd MusicPlayer
 
 
 3. Install dependencies:
 
-npm install
+   npm install
 
 
 ### Usage
