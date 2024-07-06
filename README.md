@@ -24,7 +24,7 @@ Check out the [live demo](https://main--musicplayerreactnew.netlify.app/) of our
 
 - React.js
 - HTML5 Audio API
-- CSS (or any styling libraries used)
+- CSS 
 
 ## Getting Started
 
