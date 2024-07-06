@@ -14,6 +14,11 @@ Elevate your audio experience with React Music Player. Play, pause, and skip tra
 ![Screenshot 1](public/Assets/Images/ScreenshotPlayer.png)
 ![Screenshot 2](public/Assets/Images/mini.png)
 
+## Live Demo
+
+Check out the [live demo](https://main--musicplayerreactnew.netlify.app/) of our project!
+
+
 ## Technologies Used
 
 - React.js
